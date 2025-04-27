@@ -17,8 +17,8 @@ This is the frontend project of a fullstack application built with [Vite](https:
 1. **Clone โปรเจกต์จาก GitHub**
 
    ```bash
-   git clone https://github.com/elephz/todo-list-frontend.git
-   cd todo-list-frontend
+   git clone https://github.com/elephz/todo-list-movies.git
+   cd todo-list-movies
    ```
 
 2. **ติดตั้ง dependencies**
@@ -30,7 +30,7 @@ This is the frontend project of a fullstack application built with [Vite](https:
 3. **แก้ไขไฟล์ `.env`**
 
    ```bash
-   VITE_API_URL=`BACKENDURL`
+   VITE_API_KEY=`XXX`
    ```
 
 34. **รัน serve**
